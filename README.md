@@ -34,8 +34,8 @@
 
 | 运营商 | 频段组合 |
 | --- | --- |
-| 中国移动 / 中国广电 | `n41+n28`、`n41+n41`、`n41+n41+n41` |
-| 中国联通 / 中国电信 | `n78+n78+n78`、`n78+n78+n1`、`n1+n78`、`n28+n78`、`n78+n78` |
+| 中国移动 / 中国广电 | `n41+n28` `n41+n41` `n41+n41+n41` |
+| 中国联通 / 中国电信 | `n78+n78+n78` `n78+n78+n1` `n1+n78` `n28+n78` `n78+n78` |
 
 #### NSA 组合
 
@@ -53,6 +53,10 @@
 - 系统升级可能导致上述配置被还原，因此交付时会关闭升级功能。
 - 支持远程刷机。
 - **不接有网络锁的设备。**
+
+### 联系方式
+
+E-mail：[1458296507@qq.com](mailto:1458296507@qq.com)
 
 ---
 
@@ -106,3 +110,7 @@ Country-specific carrier aggregation combinations can be customized **at no addi
 - System updates may revert these configurations, so the update function will be disabled before delivery.
 - Remote flashing is available.
 - **Network-locked devices are not accepted.**
+
+### Contact
+
+E-mail: [1458296507@qq.com](mailto:1458296507@qq.com)
