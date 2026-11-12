@@ -19,10 +19,10 @@
 - **6 GHz Wi-Fi**：开启 **320 MHz**，速率 **5760 Mbps**。
 - 通过独家底层修改技术，使上述定制配置在恢复出厂设置后依旧保留。
 
-### 专用上网插件
+### 专用 OpenClash VPN 上网插件
 
-- 定制专用上网插件。
-- 网络优化，支持 **IPv6**。
+- 定制专用 **OpenClash VPN** 上网插件。
+- 已进行网络优化，支持 **IPv6**。
 
 ### 载波聚合与基带功能
 
@@ -72,9 +72,9 @@ Supported models: **MR7400, MR7450, MR7500, MR6500, MR6550, and MR6110**
 - **6 GHz Wi-Fi:** enable **320 MHz** bandwidth, with a rate of **5760 Mbps**.
 - Exclusive low-level modifications preserve these custom settings even after a factory reset.
 
-### Dedicated Internet Connectivity Plugin
+### Dedicated OpenClash VPN Plugin
 
-- A custom plugin for internet connectivity.
+- A custom **OpenClash VPN** plugin for internet connectivity.
 - Network optimizations with **IPv6** support.
 
 ### Carrier Aggregation & Baseband Features
