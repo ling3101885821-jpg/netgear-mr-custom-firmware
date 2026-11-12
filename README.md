@@ -1,5 +1,5 @@
-# NETGEAR MR 系列定制刷机与救砖
-# NETGEAR MR Series Custom Firmware & Recovery Services
+# NETGEAR MR 系列定制Openwrt与救砖｜Root、Wi-Fi 增强、3CC 载波聚合
+# NETGEAR MR Series Custom OpenWrt & Recovery | Root, Enhanced Wi-Fi & 3CC Carrier Aggregation
 
 [中文](#中文说明) · [English](#english)
 
@@ -12,9 +12,9 @@
 - 支持 **MR7400、MR6500、MR6550** 开机进入 9008 端口的救砖服务。
 - 提供救砖、寄送刷机服务。
 
-### 定制 OP 系统与 Wi-Fi 增强
+### 定制 OpenWrt 系统与 Wi-Fi 增强
 
-- 定制 OP 系统，开启 **ADB** 和 **Root** 权限。
+- 定制 OpenWrt 系统，开启 **ADB** 和 **Root** 权限。
 - **5 GHz Wi-Fi**：开启 **160 MHz**，速率 **2880 Mbps**。
 - **6 GHz Wi-Fi**：开启 **320 MHz**，速率 **5760 Mbps**。
 - 通过独家底层修改技术，使上述定制配置在恢复出厂设置后依旧保留。
@@ -65,9 +65,9 @@ Supported models: **MR7400, MR7450, MR7500, MR6500, MR6550, and MR6110**
 - Recovery services for **MR7400, MR6500, and MR6550** devices that boot into 9008 mode.
 - Device recovery and mail-in flashing services are available.
 
-### Custom OP System & Enhanced Wi-Fi
+### Custom OpenWrt System & Enhanced Wi-Fi
 
-- Custom OP system with **ADB** and **root access** enabled.
+- Custom OpenWrt system with **ADB** and **root access** enabled.
 - **5 GHz Wi-Fi:** enable **160 MHz** bandwidth, with a rate of **2880 Mbps**.
 - **6 GHz Wi-Fi:** enable **320 MHz** bandwidth, with a rate of **5760 Mbps**.
 - Exclusive low-level modifications preserve these custom settings even after a factory reset.
