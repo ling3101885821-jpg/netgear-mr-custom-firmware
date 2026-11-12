@@ -91,8 +91,8 @@ Supported models: **MR7400, MR7450, MR7500, MR6500, MR6550, and MR6110**
 
 | Carrier | Band combinations |
 | --- | --- |
-| China Mobile / China Broadnet | `n41+n28`, `n41+n41`, `n41+n41+n41` |
-| China Unicom / China Telecom | `n78+n78+n78`, `n78+n78+n1`, `n1+n78`, `n28+n78`, `n78+n78` |
+| China Mobile / China Broadnet | `n41+n28` `n41+n41` `n41+n41+n41` |
+| China Unicom / China Telecom | `n78+n78+n78` `n78+n78+n1` `n1+n78` `n28+n78` `n78+n78` |
 
 #### NSA Combinations
 
